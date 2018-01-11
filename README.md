@@ -39,4 +39,5 @@ python test.py -iPath ./data/test/original_resolution -oPath ./output/GoogLeNet 
 }
 ```
 ## Acknowledgement
+- This research is supported by Adobe Research Funding.
 - This code borrows heavily from the popular [caffe-googlenet-bn](https://github.com/lim0606/caffe-googlenet-bn) repository.
