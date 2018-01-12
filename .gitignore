@@ -1,7 +1,5 @@
 *.DS_Store
 *.directory
 
-*.jpg
-*.png
 *.caffemodel
 *.caffemodel.h5
