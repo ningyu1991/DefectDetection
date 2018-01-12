@@ -1,6 +1,6 @@
 # DefectDetection
-- Caffe implementation for our [WACV'18 paper](https://arxiv.org/pdf/1612.01635.pdf) ([supplemental](https://drive.google.com/file/d/1J3suq5UnSjCZGEkrqCHTnKUPlg505p7f/view?usp=sharing)) on multiple photographic defect detection.
-- It is for non-commercial research purpose only. Adobe has been filing a patent for this work.
+Caffe implementation for our [WACV'18 paper](https://arxiv.org/pdf/1612.01635.pdf) ([supplemental](https://drive.google.com/file/d/1J3suq5UnSjCZGEkrqCHTnKUPlg505p7f/view?usp=sharing)) on multiple photographic defect detection.
+Contact: Ning Yu (ny4kt AT virginia DOT edu)
 
 ## Prerequisites
 - Linux
@@ -41,3 +41,6 @@ python test.py -iPath ./data/test/original_resolution -oPath ./output/GoogLeNet 
 ## Acknowledgement
 - This research is supported by Adobe Research Funding.
 - This code borrows heavily from the popular [caffe-googlenet-bn](https://github.com/lim0606/caffe-googlenet-bn) repository.
+
+## Note
+- It is for non-commercial research purpose only. Adobe has been filing a patent for this work.
