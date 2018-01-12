@@ -1,6 +1,6 @@
 # DefectDetection
-Caffe implementation for our [WACV'18 paper](https://arxiv.org/pdf/1612.01635.pdf) ([supplemental](https://drive.google.com/file/d/1J3suq5UnSjCZGEkrqCHTnKUPlg505p7f/view?usp=sharing)) on multiple photographic defect detection.
-Contact: Ning Yu (ny4kt AT virginia DOT edu)
+- Caffe implementation for our [WACV'18 paper](https://arxiv.org/pdf/1612.01635.pdf) ([supplemental](https://drive.google.com/file/d/1J3suq5UnSjCZGEkrqCHTnKUPlg505p7f/view?usp=sharing)) on multiple photographic defect detection.
+- Contact: Ning Yu (ny4kt AT virginia DOT edu)
 
 ## Prerequisites
 - Linux
