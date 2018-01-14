@@ -30,10 +30,18 @@
   Or put customized images into that directory.
 - Then run
 ```
-python test.py -iPath ./data/test/original_resolution -oPath ./output/GoogLeNet -holisticDeployPath ./prototxt/GoogLeNet/holistic/deploy_holistic.prototxt -holisticWeightsPath ./model/GoogLeNet/weights_holistic.caffemodel -patchDeployPath ./prototxt/GoogLeNet/patch/deploy_patch.prototxt -patchWeightsPath ./model/GoogLeNet/weights_patch.caffemodel -gpu 0
+python test.py -iPath data/test/original_resolution -oPath output/GoogLeNet -holisticDeployPath prototxt/GoogLeNet/holistic/deploy_holistic.prototxt -holisticWeightsPath model/GoogLeNet/weights_holistic.caffemodel -patchDeployPath prototxt/GoogLeNet/patch/deploy_patch.prototxt -patchWeightsPath model/GoogLeNet/weights_patch.caffemodel -gpu 0
 ```
 - The final seven defect severity prediction results are saved in the file output/GoogLeNet/defect_scores_combined.csv.
 - Testing images are sorted in the descent order according to each defect severity prediction and visualized correspondingly to the file output/GoogLeNet/defect_scores_combined_*.html.
+
+## Evaluation
+- We use the cross-class ranking correlation (proposed in Section 3.2 in our [paper](https://arxiv.org/pdf/1612.01635.pdf)) to evaluate the testing results. 
+- Assuming the rows and columns of data/test/defect_testing_gt.csv and output/GoogLeNet/defect_scores_combined.csv align to each other, run
+```
+python evaluate.py -gtPath data/test/defect_testing_gt.csv -predPath output/GoogLeNet/defect_scores_combined.csv -oPath output/GoogLeNet
+```
+- The evaluation measures are saved in the file output/GoogLeNet/evaluation.csv.
 
 ## Citation
 ```
