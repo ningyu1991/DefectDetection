@@ -59,6 +59,7 @@ python evaluate.py -gtPath data/test/defect_testing_gt.csv -predPath output/Goog
 ```
 ## Acknowledgement
 - This research is supported by Adobe Research Funding.
+- We thank to the photographers for licensing photos under Creative Commons or public domain.
 - We express gratitudes to the popular [caffe-googlenet-bn](https://github.com/lim0606/caffe-googlenet-bn) repository as we benefit a lot from their code.
 
 ## Note
