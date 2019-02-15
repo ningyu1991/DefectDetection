@@ -3,7 +3,7 @@
 <img src='fig/teaser.jpg' width=800>
 
 - Caffe implementation for our [WACV'18 paper](https://arxiv.org/pdf/1612.01635.pdf) ([supplemental](https://drive.google.com/file/d/1J3suq5UnSjCZGEkrqCHTnKUPlg505p7f/view?usp=sharing)) on multiple photographic defect detection.
-- Contact: Ning Yu (ny4kt AT virginia DOT edu)
+- Contact: Ning Yu (ningyu AT umd DOT edu)
 
 ## Abstract
 In this paper, we introduce the problem of simultaneously detecting multiple photographic defects. We aim at detecting the existence, severity, and potential locations of common photographic defects related to color, noise, blur and composition. The automatic detection of such defects could be used to provide users with suggestions for how to improve photos without the need to laboriously try various correction methods. Defect detection could also help users select photos of higher quality while filtering out those with severe defects in photo curation and summarization.
