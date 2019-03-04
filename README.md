@@ -24,8 +24,8 @@ To investigate this problem, we collected a large-scale dataset of user annotati
 - Multi-column patch-input GoogLeNet is in the file `prototxt/GoogLeNet/patch/deploy_patch.prototxt`.
 
 ## Pre-trained Models
-- [Multi-column holistic-input GoogLeNet model](https://drive.google.com/file/d/1NuSvKbIY7tqdcN_H8XBXGwrNJGDJ_Xue/view?usp=sharing) (download and put it under `model/GoogLeNet/`)
-- [Multi-column patch-input GoogLeNet model](https://drive.google.com/file/d/1EJyA-CsXLe_lmnxd8pO-E47qcogoFVEV/view?usp=sharing) (download and put it under `model/GoogLeNet/`)
+- [Multi-column holistic-input GoogLeNet model](https://drive.google.com/file/d/1rW_ZmRXQasjiGt9gCAKBn7xpG_7GgnMR/view?usp=sharing) (download and put it under `model/GoogLeNet/`)
+- [Multi-column patch-input GoogLeNet model](https://drive.google.com/file/d/1xsx2aRc-PIscKTMWzjWOHCkCyG0h-0vA/view?usp=sharing) (download and put it under `model/GoogLeNet/`)
 
 ## Infogain Weights
 - If users launch their own training or testing with the [infogain loss](http://caffe.berkeleyvision.org/doxygen/classcaffe_1_1InfogainLossLayer.html) as Eq. 1 in our [paper](https://arxiv.org/pdf/1612.01635.pdf), they can use our pre-computed weights at `data/infogain_mat/`, which follows the formulation as Eq. 4 in our [supplemental material](https://drive.google.com/file/d/1J3suq5UnSjCZGEkrqCHTnKUPlg505p7f/view?usp=sharing).
