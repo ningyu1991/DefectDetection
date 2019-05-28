@@ -15,7 +15,7 @@ To investigate this problem, we collected a large-scale dataset of user annotati
 - NVIDIA GPU + CUDA + CuDNN
 - Caffe
 
-## Dataset
+## Datasets
 - Training image addresses and seven defect severity ground truth are in the file `data/train/defect_training_gt.csv`.
 - Testing image addresses and seven defect severity ground truth are in the file `data/test/defect_testing_gt.csv`.
 
