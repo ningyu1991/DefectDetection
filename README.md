@@ -12,7 +12,7 @@ To investigate this problem, we collected a large-scale dataset of user annotati
 
 ## Prerequisites
 - Linux
-- NVIDIA GPU + CUDA CuDNN
+- NVIDIA GPU + CUDA + CuDNN
 - Caffe
 
 ## Dataset
