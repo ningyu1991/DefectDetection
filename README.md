@@ -51,7 +51,7 @@ python evaluate.py -gtPath data/test/defect_testing_gt.csv -predPath output/Goog
 ## Citation
 ```
 @inproceedings{yu2018learning,
-    author = {Yu, Ning and Shen, Xiaohui and Lin, Zhe and Měch, Radomír and Barnes, Connelly},
+    author = {Yu, Ning and Shen, Xiaohui and Lin, Zhe and M{\v e}ch, Radom{\' i}r and Barnes, Connelly},
     title = {Learning to Detect Multiple Photographic Defects},
     booktitle = {IEEE Winter Conference on Applications of Computer Vision (WACV)},
     year = {2018}
