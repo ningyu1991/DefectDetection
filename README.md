@@ -2,7 +2,7 @@
 
 <img src='fig/teaser.jpg' width=800>
 
-- Caffe implementation for our [WACV'18 paper](https://arxiv.org/pdf/1612.01635.pdf) ([supplemental](https://drive.google.com/file/d/1J3suq5UnSjCZGEkrqCHTnKUPlg505p7f/view?usp=sharing), [slides](https://drive.google.com/file/d/1tdlowmMZvjOS8ylperQdmAn43MMvtpJU/view), [poster](https://drive.google.com/file/d/14gc11hn8ZVc7bJ_Ozrr4BGy53GTF_I0s/view)) on multiple photographic defect detection.
+- Official Caffe implementation for our [WACV'18 paper](https://arxiv.org/pdf/1612.01635.pdf) ([supplemental](https://drive.google.com/file/d/1J3suq5UnSjCZGEkrqCHTnKUPlg505p7f/view?usp=sharing), [slides](https://drive.google.com/file/d/1tdlowmMZvjOS8ylperQdmAn43MMvtpJU/view), [poster](https://drive.google.com/file/d/14gc11hn8ZVc7bJ_Ozrr4BGy53GTF_I0s/view)) on multiple photographic defect detection.
 - Contact: Ning Yu (ningyu AT umd DOT edu)
 
 ## Abstract
