@@ -4,7 +4,7 @@
 [Ning Yu](https://sites.google.com/site/ningy1991/), [Xiaohui Shen](https://xiaohuishen.github.io/), [Zhe Lin](https://research.adobe.com/person/zhe-lin/), [Radomír Měch](https://research.adobe.com/person/radomir-mech/), [Connelly Barnes](http://www.connellybarnes.com/work/)<br>
 WACV 2018
 
-### [paper](https://arxiv.org/pdf/1612.01635.pdf) | [supplementary](https://drive.google.com/file/d/1J3suq5UnSjCZGEkrqCHTnKUPlg505p7f/view?usp=sharing) | [poster](https://drive.google.com/file/d/1Smowh99tfxLBHPXYjjPMJ9J0j-xbvxXd/view?usp=sharing) | [slides](https://drive.google.com/file/d/1tdlowmMZvjOS8ylperQdmAn43MMvtpJU/view?usp=sharing) | [poster](https://drive.google.com/file/d/14gc11hn8ZVc7bJ_Ozrr4BGy53GTF_I0s/view?usp=sharing)
+### [paper](https://arxiv.org/pdf/1612.01635.pdf) | [supp](https://drive.google.com/file/d/1J3suq5UnSjCZGEkrqCHTnKUPlg505p7f/view?usp=sharing) | [slides](https://drive.google.com/file/d/1tdlowmMZvjOS8ylperQdmAn43MMvtpJU/view?usp=sharing) | [poster](https://drive.google.com/file/d/14gc11hn8ZVc7bJ_Ozrr4BGy53GTF_I0s/view?usp=sharing)
 
 <img src='fig/teaser.jpg' width=800>
 
