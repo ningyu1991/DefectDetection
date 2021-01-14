@@ -66,4 +66,4 @@ python evaluate.py -gtPath data/test/defect_testing_gt.csv -predPath output/Goog
 - We express gratitudes to the [caffe-googlenet-bn repository](https://github.com/lim0606/caffe-googlenet-bn) as we benefit a lot from their code.
 
 ## Note
-- It is for non-commercial research purpose only. Adobe has filed a patent for this work: see [here](https://patentimages.storage.googleapis.com/9a/1b/31/c8259012f407f6/US20180268533A1.pdf).
+- It is for non-commercial research purpose only. Adobe has filed a patent for this work: see [here](https://patentimages.storage.googleapis.com/fb/a4/32/3d3030419f6859/US10810721.pdf).
