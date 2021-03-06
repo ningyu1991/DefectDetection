@@ -6,7 +6,9 @@ WACV 2018
 
 ### [paper](https://arxiv.org/pdf/1612.01635.pdf) | [supp](https://drive.google.com/file/d/1J3suq5UnSjCZGEkrqCHTnKUPlg505p7f/view?usp=sharing) | [slides](https://drive.google.com/file/d/1tdlowmMZvjOS8ylperQdmAn43MMvtpJU/view?usp=sharing) | [poster](https://drive.google.com/file/d/14gc11hn8ZVc7bJ_Ozrr4BGy53GTF_I0s/view?usp=sharing)
 
-<img src='fig/teaser.jpg' width=800>
+<img src='fig/teaser.jpg' width=600>
+<img src='fig/detection.jpg' width=600>
+<img src='fig/localization.jpg' width=600>
 
 ## Abstract
 In this paper, we introduce the problem of simultaneously detecting multiple photographic defects. We aim at detecting the existence, severity, and potential locations of common photographic defects related to color, noise, blur and composition. The automatic detection of such defects could be used to provide users with suggestions for how to improve photos without the need to laboriously try various correction methods. Defect detection could also help users select photos of higher quality while filtering out those with severe defects in photo curation and summarization.
